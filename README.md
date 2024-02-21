@@ -12,7 +12,7 @@ In this project, we aimed to develop a machine learning model for fault detectio
 6. **Model Evaluation**: Evaluated model performance using fault-free testing and faulty testing data.
 
 ## Results
-After extensive experimentation and evaluation, we found that XGBoost outperformed other algorithms with a cumulative accuracy of 89.7% in detecting all faults.
+After extensive experimentation and evaluation, It is concluded that XGBoost outperformed other algorithms with a cumulative accuracy of 89.7% in detecting all faults.
 
 ## Conclusion
 This project demonstrates the effectiveness of machine learning in fault detection using the Tennessee Eastman Process Simulation dataset. XGBoost emerged as the top-performing model, showcasing its potential in industrial anomaly detection tasks.
